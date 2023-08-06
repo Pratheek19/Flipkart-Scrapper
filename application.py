@@ -27,7 +27,7 @@ def index():
                     updated_comments=[]
                     value=[]
 
-                    n=200
+                    n=100
                     
                             # fake user agent to avoid getting blocked by Google
                     headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"}
@@ -87,11 +87,16 @@ def index():
                     df = pd.DataFrame(transposed_data, columns=["customer name",'customer Ratings','customer title','customer comment'])
 
                     print(df)
-                    df.to_csv(r'C:\Users\Pavan\Desktop\flipdata5.csv')
+                    df.to_csv(r'C:\Users\Pavan\Desktop\flipkart_scrapper\flipdata6.csv')
 
-         
+                    #df=pd.read_csv("flipdata6.csv")
+                    #df.to_csv("flipdata6.csv")
 
-                    return "file saved in csv formate"
+                    Data1=pd.read_csv("flipdata6.csv")
+
+
+
+                    return render_template("base.html",tables=[Data1.to_html()])
                 except Exception as e:
                     logging.info(e)
                     return 'something is wrong'

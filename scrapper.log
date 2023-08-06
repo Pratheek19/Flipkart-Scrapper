@@ -357,3 +357,145 @@ INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 12:42:25] "GET / HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 12:42:25] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
 INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 12:42:25] "[36mGET /static/web%20scraping.png HTTP/1.1[0m" 304 -
 INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 12:42:45] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.100:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:13:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:13:34] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:13:35] "[36mGET /static/web%20scraping.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:15:54] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.100:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:38:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:38:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:39:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:39:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:39:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:39:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.100:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:41:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:41:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:41:41] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:41:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:43:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:43:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:45:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:45:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:45:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:45:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:45:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.100:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:46:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:46:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:46:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:46:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:46:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:46:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:46:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:46:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:46:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:46:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:46:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:46:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:46:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:46:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:46:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:46:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.100:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:51:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:51:29] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:51:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:51:31] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:51:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:51:31] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:51:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:51:33] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:51:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Aug/2023 20:51:33] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.100:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 13:54:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 13:54:37] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 13:54:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 13:54:37] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 13:54:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 13:54:38] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 13:54:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 13:54:39] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 13:54:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 13:54:39] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 13:54:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 13:54:39] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 13:57:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 13:57:25] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.100:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 14:00:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 14:00:11] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 14:00:11] "[36mGET /static/web%20scraping.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 14:00:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 14:00:17] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 14:00:17] "[36mGET /static/web%20scraping.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 14:00:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 14:00:18] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 14:00:18] "[36mGET /static/web%20scraping.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 14:00:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 14:00:18] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 14:00:18] "[36mGET /static/web%20scraping.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 14:00:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 14:00:18] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 14:00:18] "[36mGET /static/web%20scraping.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 14:00:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 14:00:19] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 14:00:19] "[36mGET /static/web%20scraping.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.100:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 14:01:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 14:01:02] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 14:01:02] "[36mGET /static/web%20scraping.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.100:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 14:03:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 14:03:11] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 14:03:11] "[36mGET /static/web%20scraping.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 14:03:21] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 14:03:21] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 14:04:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 14:04:50] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 14:04:50] "[36mGET /static/web%20scraping.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.100:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 14:06:37] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2023 14:06:37] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
